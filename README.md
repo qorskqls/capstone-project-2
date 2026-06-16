@@ -21,3 +21,8 @@ Rather than asking whether AI is better than humans, this project investigates a
 > **In what situations do people prefer AI, and when do they still seek human connection?**
 
 This repository contains the research methodology, survey data, analysis, visualizations, and presentation materials from our capstone project.
+## Results
+
+AI preferred: 8 / 12 questions (66.7%)
+
+Human preferred: 4 / 12 questions (33.3%)
