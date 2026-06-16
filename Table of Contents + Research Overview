@@ -1,0 +1,52 @@
+## Table of Contents
+
+* Research Question
+* Methodology
+* Results
+* Key Findings
+* Limitations
+* Implications
+* Future Research
+
+---
+
+## Research Question
+
+Artificial intelligence is becoming a common source of advice, information, and emotional support. However, most discussions about AI focus on its technical capabilities rather than how people actually perceive its responses.
+
+This study investigates a simple but important question:
+
+**When people do not know the source of an answer, do they prefer AI-generated responses or human-written responses?**
+
+By removing source labels and evaluating responses blindly, we aimed to examine preference patterns based solely on content quality and perceived usefulness.
+
+---
+
+## Methodology
+
+### Participants
+
+* 21 survey respondents
+
+### Survey Design
+
+* 12 questions
+* Topics included:
+
+  * Leadership
+  * Failure
+  * Career decisions
+  * Motivation
+  * Trust
+  * Loneliness
+  * Happiness
+  * Conflict resolution
+
+### Procedure
+
+1. Create 12 discussion questions.
+2. Generate one AI response and one human response for each question.
+3. Present both responses anonymously.
+4. Ask participants to choose the better response.
+
+Participants were not informed which response was written by AI and which was written by a human.
