@@ -21,3 +21,20 @@ Rather than asking whether AI is better than humans, this project investigates a
 > **In what situations do people prefer AI, and when do they still seek human connection?**
 
 This repository contains the research methodology, survey data, analysis, visualizations, and presentation materials from our capstone project.
+## Team Members
+
+- Philip
+- Chloe
+- Esther
+- Terrance
+-  ## Limitations
+- Small sample size (n=21)
+- No demographic controls
+- No follow-up explanations
+- Human answer quality may vary
+# Future Work
+
+- Increase sample size
+- Compare age groups
+- Collect qualitative explanations
+- Conduct cross-cultural studies
