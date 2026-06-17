@@ -38,3 +38,8 @@ This repository contains the research methodology, survey data, analysis, visual
 - Compare age groups
 - Collect qualitative explanations
 - Conduct cross-cultural studies
+## Results
+
+AI preferred: 8 / 12 questions (66.7%)
+
+Human preferred: 4 / 12 questions (33.3%)
